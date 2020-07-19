@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import time
 
-url = 'http://192.168.43.1:8080/video'
+url = 0
 capture_video = cv2.VideoCapture(url)
 
 #give the camera to warm up
