@@ -9,5 +9,6 @@ ALOGRITHM:
 4. Generate the final augmented output to create a magical effect. [ video.mp4 ]
 
 # Steps-to-run
-1. Install Numpy
-2. Install OpenCv-python
+1. Install Python
+2. Install Numpy
+3. Install OpenCv-python
